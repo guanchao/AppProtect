@@ -9,3 +9,6 @@
 
 3.SectionEncrypt
 对so文件的指定section进行整体加密解密
+
+4.MethodEncrypt
+对so文件的指定方法进行加密解密
