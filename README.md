@@ -18,3 +18,6 @@
 
 6.通过hook重定向native方法
 使用cydia substrate hook框架重定向native方法，达到保护native方法的目的
+
+7.动态注册native方法
+自己注册native方法，隐藏带有Java_xxx_xxx_xxx的函数名特征
