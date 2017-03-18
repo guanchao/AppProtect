@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:7
+-keep class com.demo.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:6
+-keep class com.demo.ProxyApplication { <init>(...); }
+

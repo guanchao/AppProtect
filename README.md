@@ -15,3 +15,6 @@
 
 5.Dalvik运行时篡改字节码 
 在运行时动态修改dex中方法的字节码
+
+6.通过hook重定向native方法
+使用cydia substrate hook框架重定向native方法，达到保护native方法的目的
